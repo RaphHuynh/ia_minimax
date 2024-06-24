@@ -1,8 +1,4 @@
-# ia_renforcement_minimax
-
-# IA par renforcement from scratch
-
-Le but de cette ia est de trouver par la méthode du renforcement.
+# ia_minimax
 
 ## Règle du jeu
 
